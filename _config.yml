@@ -23,6 +23,9 @@ url: "https://danieltaborda.github.io" # the base hostname & protocol for your s
 twitter_username: linklince
 github_username:  danieltaborda
 
+layout: default
+comments: true
+
 disqus:
   shortname: disqus_LlvggYzm73
 
